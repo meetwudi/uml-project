@@ -1,10 +1,10 @@
-# Use Case: User Place Order
+# Use Case: Customer Place Order
 
 ### Diagram
 
 
 ### Brief Introduction
-The user place an order in the system.
+The customer place an order in the system.
 
 
 ### Initial Step-by-Step Description
