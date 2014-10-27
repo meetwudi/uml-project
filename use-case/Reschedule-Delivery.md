@@ -4,7 +4,7 @@
 
 
 ### Brief Introduction
-If the customer is not at home and no agent for him or her,the delivery must be rescheduled upon the agreement with the customer.
+If the customer is not at home and no agent for him or her, the delivery must be rescheduled upon the agreement with the customer.
 
 
 ### Initial Step-by-Step Description
