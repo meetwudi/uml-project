@@ -18,7 +18,7 @@ The customer has decided to pay for the existing order.
 7. The system notifies the customer that paying is finished.
 
 ### Post-condition
-The order gets paied for.
+The order gets paid for.
 
 ### Exception Flow
 The customer may change his/her mind and want to cancel the order.
