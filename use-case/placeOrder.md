@@ -13,4 +13,4 @@ Before this use case can be initialized, the customer has an account in the syst
 1. The customer selects what he/she wants to purchase.
 2. The customer chooses his/her address.
 3. The system accepts the order.
-4. The system inform the logistics companie to deliever.
+4. The system inform the logistics company to deliever.
