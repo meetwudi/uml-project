@@ -8,4 +8,4 @@ More specifically, the system is designed to allow customers to place order, pay
 
 Customers are allowed to experice the uniformed yet very personalized process online and also offline. For example, the system will be smart enough to reduce the customer's count of operations by providing stragedies like using GPS to locate the customer's position, which may help to improve the efficiency.
 
-// TO B DONE
+The text messaging sub-system is one of the most important parts of the system.
