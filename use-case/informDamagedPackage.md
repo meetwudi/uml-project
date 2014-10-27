@@ -13,4 +13,4 @@ Before this use case can be initialized, the customer has placed an order and th
 1. The delivery person records the damage or lost.
 2. The delivery person inputs the information to the system.
 3. The system sends the information to the logistics company.
-4. The system sends the information and an apology to the customer.
+4. The system sends the information and an apology to the customer by text message.
