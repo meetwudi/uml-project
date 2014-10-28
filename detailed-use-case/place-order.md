@@ -32,9 +32,9 @@ The customer accesses the system and places an order in the system.
 
 4. The customer chooses his/her address by GPS and confirms it.
 
-5. The system accepts the order.
+5. The order management system accepts the order.
 
-6. The system informs the logistics company to deliever.
+6. The order management system informs the logistics company to deliever.
 
 
 
