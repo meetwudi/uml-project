@@ -21,5 +21,11 @@ The customer has decided to pay for the existing order.
 ### Post-condition
 The order gets paid for.
 
+### Alternative Flow
+1. The customer may want to purchase offline.
+He/She should pay for the order when he/she receives the package.
+2. The customer doesn't have enough money.
+He/She can pay later.
+
 ### Exception Flow
 The customer may change his/her mind and want to cancel the order.
