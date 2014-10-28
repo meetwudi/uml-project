@@ -37,4 +37,4 @@ The customer and the logistics company get informed.
 
 ### Exception Flow
 
-In step 4 if the customer didn't leave mobile number on the system, the system will highlight the package iterm on the website of the customer's account so that the customer can see it when the customer logs in the system next time.
+In step 4 if the customer didn't leave mobile number on the text messaging system, the order tracking system will highlight the package iterm on the website of the customer's account so that the customer can see it when the customer logs in the system next time.
