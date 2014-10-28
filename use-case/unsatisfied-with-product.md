@@ -1,10 +1,10 @@
-# Use Case: Unsatisfied with the Product
+# Use Case: Unsatisfied with Product
 
 ### Diagram
 
 
 ### Breif Introduction
-The customer receives the package and find out that he/she is unsatisfied with the product.
+The customer checks the package and finds out that he/she is unsatisfied with the product.
 
 
 ### Initial Step-by-Step Description

@@ -1,0 +1,51 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="971" measuredH="531" mockupW="678" mockupH="472">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="293" y="59" w="678" h="472" measuredW="678" measuredH="472" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="678" h="472" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <markup>true</markup>
+            <text>My%20Orders%0Ahttp%3A//</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="23" y="93" w="112" h="30" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <markup>true</markup>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="501" y="101" w="-1" h="-1" measuredW="66" measuredH="22" zOrder="2" locked="false" isInGroup="0">
+          <controlProperties>
+            <markup>true</markup>
+            <text>My%20Orders</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="582" y="101" w="-1" h="-1" measuredW="45" measuredH="22" zOrder="3" locked="false" isInGroup="0">
+          <controlProperties>
+            <markup>true</markup>
+            <text>Logout</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="315" y="224" w="-1" h="-1" measuredW="183" measuredH="25" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Midway%2C%20%u5546%u54C1%u540D%u79F0%2C%20invoice</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TextArea" x="315" y="279" w="631" h="140" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Invoice%20Preview</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="315" y="441" w="-1" h="-1" measuredW="111" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Download%20PDF</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="443" y="441" w="-1" h="-1" measuredW="50" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Print</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

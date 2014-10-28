@@ -1,4 +1,4 @@
-# Use Case: Return the Product
+# Use Case: Return Product
 
 
 ### Diagram
@@ -12,10 +12,10 @@ The customer received the package and find out that he/she is unsatisfied with t
 Before this use can be initialized, the customer has already received the package and checked the product.
 
 
-1.The customer accesses the system. 
-2.The customer chooses to return the product. 
-3.The system displays the form of returnning products. 
-4.The customer fills out all the information required and submit it. 
-5.The system validates the information and confirm it. 
-6.The customer receives the confirmation. 
-7.The customer post the product back.  
+1. The customer accesses the order management sub-system. 
+2. The customer chooses to return the product. 
+3. The order management sub-system displays the form of returnning products. 
+4. The customer fills out all the information required and submit it. 
+5. The order management sub-system validates the information and confirm it. 
+6. The customer receives the confirmation. 
+7. The customer posts the product back and fills the package information into the order management sub-system.  

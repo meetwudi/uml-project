@@ -15,7 +15,8 @@ The customer has decided to pay for the existing order.
 4. The system redirects to the paying website.
 5. The customer fills out the information required to pay.
 6. The paying website notifies the system that the paying process is complete.
-7. The system notifies the customer that paying is finished.
+7. The order management systems marks the order as paid.
+8. The system notifies the customer that paying is finished.
 
 ### Post-condition
 The order gets paid for.
