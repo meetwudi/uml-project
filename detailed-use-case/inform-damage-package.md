@@ -21,11 +21,8 @@ The system informs the customer and logistics company when the lost or damage of
 
 
 1. The logistics company employee records the damage or lost.
-
 2. The logistics company employee inputs the information to the order tracking system.
-
 3. The order management system sends the information to the seller.
-
 4. The text messaging system sends the information and an apology to the customer by text message.
 
 
