@@ -15,5 +15,5 @@ Before this use case can be initialized, the customer has already owned an accou
 2. The customer puts the product into shopping cart.
 3. The customer confirm to buy the product.
 2. The customer chooses his/her address by GPS and confirms it.
-3. The system accepts the order.
-4. The system informs the logistics company to deliever.
+3. The order management system accepts the order.
+4. The order management system informs the seller to deliever.
