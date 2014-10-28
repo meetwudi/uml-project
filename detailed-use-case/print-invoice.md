@@ -11,11 +11,11 @@ The customer asks for invoices of this paid order.
 1. The customer clicks on 'Print invoice' button after paying.
 2. The system displays the form of invoice information.
 3. The customer fills out the form.
-4. The system prints the invoice for the delivery person.
-5. The delivery person takes the invoice to the customer.
+4. The system generate invoice in the pdf filetype.
+5. The customer download the invoice and get it printed.
 
 ### Post-condition
-The invoice gets printed.
+The invoice gets printed by customer.
 
 ### Exception Flow
 The customer doesn't provide the required information about the invoice, so the system will ask the customer to fill in again.
