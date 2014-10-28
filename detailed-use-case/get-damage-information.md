@@ -20,25 +20,23 @@ Before this use case can be initialized, the system has sent the information abo
 
 
 
+
 1. The customer gets the information of the damage or lost of the package by text message.
-
-2. The customer selects the logistics company to deliver the package again or cancel the order. 
-
-3. The customer replys the message sent by the system to tell the system his/her decision.
-
+2. The customer selects the seller to deliver the package again or cancel the order. 
+3. The customer replys the message sent by the text messaging system to tell the system his/her decision.
 
 
 ### Post-condition
 
-The system gets the customer's decision to the package.
+The order management system gets the customer's decision to the package.
 
 
 
 ### Exception Flow
 
-In step 1 if the customer input the wrong phone number, the system will highlight the damaged or lost package iterm in the customer's account so that the customer will see it when the customer logs in next time.
+In step 1 if the customer input the wrong phone number, the order tracking system will highlight the damaged or lost package iterm in the customer's account so that the customer will see it when the customer logs in next time.
 
-In step 3 if the customer reply a message in wrong format, the system will sent the customer a warnning message and the customer can deal with the information on website again.
+In step 3 if the customer reply a message in wrong format, the text messaging system will sent the customer a warnning message and the customer can deal with the information on website again.
 
 
 ### Alternative Flow

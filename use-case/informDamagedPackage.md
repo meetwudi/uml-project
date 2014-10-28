@@ -10,7 +10,7 @@ The system informs the customer and logistics company when the lost or damage of
 ### Initial Step-by-Step Description
 Before this use case can be initialized, the customer has placed an order and the goods are on the way.
 
-1. The delivery person records the damage or lost.
-2. The delivery person inputs the information to the system.
-3. The system sends the information to the logistics company.
-4. The system sends the information and an apology to the customer by text message.
+1. The logistics company employee records the damage or lost.
+2. The logistics company employee inputs the information to the order tracking system.
+3. The order management system sends the information to the seller.
+4. The text messaging system sends the information and an apology to the customer by text message.

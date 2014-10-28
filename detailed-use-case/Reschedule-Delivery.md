@@ -9,16 +9,16 @@ The customer has already ordered a product and the customer is not at home and n
 
 ### Basic Flow
 
-1. The customer accesses the system.
+1. The customer accesses the order management sub-system.
 2. The customer chooses to reschedule the delivery.
-3. The system displays the form of rescheduling.
-4. The customer fill out the information required and submit it.
-5. The system receives the request and confirm it.
-6. The system sends the information of rescheduling to the delivery man.
-7. The delivery man takes the package to the customer on reschedular day.
+3. The order management sub-system displays the form of rescheduling.
+4. The customer fills out the information required and submit it.
+5. The order management sub-system receives the request and confirms it.
+6. The order management sub-system sends the information of rescheduling to the logistics company.
+7. The logisics company's employee takes the package to the customer on reschedular day.
 
 ### Post-condition
-The delivery rescheduled.
+The delivery is rescheduled.
 
 ### Exception Flow
 The customer may have time to receive the product suddenly and the delivery isn't rescheduled.

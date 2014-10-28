@@ -20,14 +20,10 @@ The system informs the customer and logistics company when the lost or damage of
 
 
 
-1. The delivery person records the damage or lost.
-
-2. The delivery person inputs the information to the system.
-
-3. The system sends the information to the logistics company.
-
-4. The system sends the information and an apology to the customer by text message.
-
+1. The logistics company employee records the damage or lost.
+2. The logistics company employee inputs the information to the order tracking system.
+3. The order management system sends the information to the seller.
+4. The text messaging system sends the information and an apology to the customer by text message.
 
 
 ### Post-condition
@@ -38,4 +34,4 @@ The customer and the logistics company get informed.
 
 ### Exception Flow
 
-In step 4 if the customer didn't leave mobile number on the system, the system will highlight the package iterm on the website of the customer's account so that the customer can see it when the customer logs in the system next time.
+In step 4 if the customer didn't leave mobile number on the text messaging system, the order tracking system will highlight the package iterm on the website of the customer's account so that the customer can see it when the customer logs in the system next time.
