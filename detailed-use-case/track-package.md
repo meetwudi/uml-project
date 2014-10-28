@@ -15,7 +15,9 @@ The customer should receive a tracking number for his/her package.
 5. The customer clicks on `Track` button.
 6. The system asks for a tracking number.
 7. The customer enters the tacking number of the package he or she wants to track.
-8. The system displays the current location and transport information of the package.
+8. The system sends a tracking request to the logistics company.
+9. The logistics company returns the tracking information. 
+10. The system displays the current location and transport information of the package.
 
 ### Post-condition
 The customer gets the tracking information.
