@@ -1,4 +1,4 @@
-# Use Case: Return the Product
+# Use Case: Return Product
 
 
 ### Diagram
