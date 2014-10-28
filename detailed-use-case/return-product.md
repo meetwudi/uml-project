@@ -1,5 +1,5 @@
 ### Use Case Name
-Return the Product
+Return Product
 
 
 ### Trigger
@@ -10,16 +10,16 @@ The customer has decided to return the product after he/she check the product.
 
 ### Basic Flow
 
-1.The customer accesses the system. 
-2.The customer chooses to return the product. 
-3.The system displays the form of returnning products. 
-4.The customer fills out all the information required and submit it. 
-5.The system validates the information and confirm it. 
-6.The customer receives the confirmation. 
-7.The customer post the product back.
+1. The customer accesses the order management sub-system. 
+2. The customer chooses to return the product. 
+3. The order management sub-system displays the form of returnning products. 
+4. The customer fills out all the information required and submit it. 
+5. The order management sub-system validates the information and confirm it. 
+6. The customer receives the confirmation. 
+7. The customer posts the product back and fills the package information into the order management sub-system.
 
 ### Post-codition
-The product is send back.
+The product is sended back to the seller.
 
 ### Exception Flow
 The customer may change his/her mind and want to change the product instead
