@@ -27,4 +27,5 @@ The order gets canceled.
 The customer may change his/her mind and want to change a new product instead.
 
 ### Alternative Flow
-The customer can finish these steps by replying the system's text message.
+1. Before step 1, the system will send text message to inform user the process of cancelling order by text messaging.
+2. The customer can cancel order by replying the system's text message.
