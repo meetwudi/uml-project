@@ -6,11 +6,11 @@ Return Product
 The customer is unsatisfied with the product and decides to return the product.
 
 ### Pre-codition
-The customer has decided to return the product after he/she check the product.
+The customer has decided to return the product after he/she has checked the product.
 
 ### Basic Flow
 
-1. The customer accesses the order management sub-system. 
+1. The customer accesses the Midway system. 
 2. The customer chooses to return the product. 
 3. The order management sub-system displays the form of returnning products. 
 4. The customer fills out all the information required and submit it. 

@@ -11,19 +11,17 @@ The customer signs in the Midway system (via SPL in taobao.com), then heads over
  
 1. The customer clicks on the `Pay` button.
 2. The system provides various means of purchasing, such as via Paypal or Alipay.
-3. The customer selects one way to pay.
+3. The customer selects one payment gateway and click `Pay Now`.
 4. The system redirects to the payment gateway.
-5. The customer follows process provided in the payment gateway, and got redirected to the Midway system again.
-6. The system displays the orders list with the payed items marked `paid, awaiting for delivery`.
+5. The customer follows process provided in the payment gateway, and got redirected to the 6. Midway system again.
+7. The system redirects the customer to choose delivery destination.
 
 ### Post-condition
 The order gets paid for.
 
 ### Alternative Flow
-1. The customer may want to purchase offline.
-He/She should pay for the order when he/she receives the package.
-2. The customer doesn't have enough money.
-He/She can pay later.
+1. The customer chooses to purchase offline in step 2.
+2. The system redirects the customer to choose delivery destination.
 
 ### Exception Flow
 The customer may change his/her mind and want to cancel the order.
