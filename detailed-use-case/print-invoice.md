@@ -5,7 +5,7 @@ Print invoice
 The order has been paid for.
 
 ### Pre-condition
-The customer asks for invoices of this paid order.
+Before this use case can be initialized, the customer should signs in the Midway system (via SSO in taobao.com), then heads over to `My Orders`.
 
 ### Basic Flow
 1. The customer clicks on `Print invoice` button after paying.
