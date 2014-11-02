@@ -3,11 +3,9 @@
 Get Damage Information
 
 
-
 ### Trigger
 
 The information about the damaged or lost package is sent to the customer by text message.
-
 
 
 ### Pre-condition
@@ -17,8 +15,6 @@ Before this use case can be initialized, the system has sent the information abo
 
 
 ### Basic Flow
-
-
 
 
 1. The customer gets the information of the damage or lost of the package by text message.
