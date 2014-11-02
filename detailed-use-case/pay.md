@@ -9,8 +9,8 @@ The customer signs in the Midway system (via SPL in taobao.com), then heads over
 
 ### Basic Flow
  
-1. The customer clicks on the `Pay` button.
-2. The system provides various means of purchasing, such as via Paypal or Alipay.
+1. The customer clicks on the `Pay` button on one of the unpaid order.
+2. The system lists all supported payment gateway, such as via Paypal or Alipay.
 3. The customer selects one payment gateway and click `Pay Now`.
 4. The system redirects to the payment gateway.
 5. The customer follows process provided in the payment gateway, and got redirected to the 6. Midway system again.

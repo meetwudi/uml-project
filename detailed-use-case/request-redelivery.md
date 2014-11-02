@@ -2,7 +2,8 @@
 Request Redelivery
 
 ### Trigger
-The package was damaged or lost and the customer decided to request redelivery.
+1. The package was damaged or lost and the customer decided to request redelivery.
+2. The customer is not satisfied with the received product.
 
 ### Pre-condition
 The customer has decided to request redelivery of the product after he/she get the information.
