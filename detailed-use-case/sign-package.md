@@ -5,7 +5,8 @@ Sign package
 The customer meets the delivery person at home.
 
 ### Pre-condition
-The package is delivered to the customer.
+1. Before this use case can be initialized, the customer should sign in the Midway system (via SSO in taobao.com).
+2. The package should be delivered to the customer.
 
 ### Basic Flow
 1. The customer signs on the pad to leave a signature or a fingerprint.
