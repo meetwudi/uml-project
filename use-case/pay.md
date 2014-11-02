@@ -8,7 +8,7 @@ The customer pays the bill.
 
 
 ### Initial Step-by-Step  
-Before this use case can be initialized, the customer signs in the Midway system (or via SPL in taobao.com), then heads over to `My Orders`.
+Before this use case can be initialized, the customer signs in the Midway system (or via SSO in taobao.com), then heads over to `My Orders`.
 
  
 1. The customer clicks on the `Pay` button.

@@ -14,6 +14,8 @@ Before this use case can be initialized, the customer should signs in the Midway
 2. The system prompts if customer decided to cancel the order.
 3. The customer chooses “yes”.
 4. The order management system sends the customer's decision to the seller.
+5. The seller confirms the cancellation.
+6. The system notifies Taobao.com.
 
 
 ### Post-condition

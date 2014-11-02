@@ -1,29 +1,14 @@
 ### Use Case Name
 
 Place Order
-
-
-
-
 ### Trigger
-
 The customer decicdes to purchase something on the system.
 
 
-
-
 ### Pre-condition
-
 The customer accesses the system and places an order in the system.
 
-
-
-
 ### Basic Flow
-
-
-
-
 1. The customer selects what he/she wants to purchase puts the product into shopping cart.
 2. The order management system asks the customer to confirm.
 3. The customer confirm to buy the product.

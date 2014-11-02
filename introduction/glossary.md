@@ -16,5 +16,6 @@
 - payment gateway: the payment agency which deals with user payment.
 - account: A record-keeping arrangement used by the vendor of an online service to identify a subscriber and to maintain a record of customer usage for billing purposes.
 - server: a computer or program that responds to commands from a client.
-- SPL: Single Point Login, which allows user session to be kept via different domains.
+- SSO: Single Sign On, which allows user session to be kept via different domains.
 - package state: indicates the current environment and statement of a package.
+- user: Any one access the Midway system regardless of his/her role.
