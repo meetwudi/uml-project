@@ -20,7 +20,6 @@ The customer accesses the system and places an order in the system.
 
 
 ### Post-condition
-
 The logistics company got the order.
 
 

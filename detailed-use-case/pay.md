@@ -5,7 +5,7 @@ Paying
 The order was created with default status `awaiting payment`.
 
 ### Pre-condition
-The customer signs in the Midway system (via SPL in taobao.com), then heads over to `My Orders`.
+The customer signs in the Midway system (via SSO in taobao.com), then heads over to `My Orders`.
 
 ### Basic Flow
  
