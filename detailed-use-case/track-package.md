@@ -5,7 +5,8 @@ Trace package
 The package is being delivered to the customer.
 
 ### Pre-condition
-The customer should receive a tracking number for his/her package.
+1. Before this use case can be initialized, the customer should signs in the Midway system (via SSO in taobao.com), then heads over to `My Orders`.
+2. The customer should receive a tracking number for his/her package.
 
 ### Basic Flow
 1. The customer access the system and login with the account.
