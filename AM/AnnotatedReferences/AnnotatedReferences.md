@@ -1,0 +1,11 @@
+#Annotated references
+
+###IEEE Recommended Practice for SRS
+
+</br>
+It's a reference when we write SRS document of our project. It helps us figure out what is SRS and what we should do to write an SRS document. Besides, it describes the content and qualities of a good software requirements which are references and standards when we design the document. Refer to the fourth section of this article -- Necessary design requirement, we try to consider some non-functional requirement of the Package	Delivery Application System. Refer to the fifth section of this article where offers a outline of all part of an SRS, we divide the SRS document into three parts: introduction, overall description and requirements specification. And introduction includes perpose, scope of project, glossary and references. Overall description includes system environment, functional requirements specification and non-functional requirement. Requirements specification includes moke up and funcitonal requirements.
+
+###UML Specification 2.0
+
+</br> 
+As to the UML Specification 2.0, we almost refers to Chapter 16 when we design use cases of the Package Delivery Application System. According to the description of actor in Chapter 16.3.1 Class Description, we create actors such as the customer, the employee of logistic company, the seller, etc. And we draw the figures of our system following the example of the use cases and actors for an ATM system in Figure 16.5 and creating 3 sub-systems, Order Management Sub-system, Order tracking Sub-system and Text Message Sub-system. Then we design our use cases referring to the description in Chapter16.3.6, and we also add extend relationship and include relationship to Lost or Damage Product, Cancel Order and Request Redelivery according to the concept in Chapter 16.3.3 and Chapter 16.3.5. When drawing use case diagrams, we choose to use the “stick man” icon that is mentioned in Chapter 16.4 to represent actors and use other symbols in the same chapter to finish other part of use case diagrams.
